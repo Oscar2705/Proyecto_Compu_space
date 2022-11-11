@@ -1,0 +1,19 @@
+#logo{
+    width: 50%;
+    padding-right: 0;
+}
+.logo {
+    margin-right: -15rem;
+}
+
+.seccion {
+    border-color: grey;
+    justify-content: left;
+    padding: 9px;
+    background-color: #e3e0e0;
+}
+
+.marco {
+    margin: 2rem;
+    margin-left: 3rem;
+}
